@@ -1,0 +1,82 @@
+{
+	"scheme": {
+		"light": {
+			"general": {
+				"logoUrl": "http://localhost:8080/src/lib/mock/logo-light.svg",
+				"logoAlt": "THE WALL STREET JOURNAL REPORTERS ROOM",
+				"fontFamily": "sans"
+			},
+			"theme": {
+				"modal": {
+					"borderRadius": "12px",
+					"backgroundColor": "#f2f2f2"
+				},
+				"textarea": {
+					"borderRadius": "6px",
+					"backgroundColor": "#f2f2f2"
+				},
+				"dropdown": {
+					"menuBorderRadius": "4px",
+					"itemBorderRadius": "4px"
+				},
+				"text": {
+					"usernameColor": "#9c9da0",
+					"timestampColor": "#9c9da0"
+				},
+				"suggestionButton": {
+					"borderRadius": "6px",
+					"backgroundColor": "#e1e2e5",
+					"hoverBackgroundColor": "#ececef",
+					"textColor": "#242424",
+					"hoverTextColor": "#242424",
+					"borderColor": "transparent",
+					"hoverBorderColor": "transparent"
+				},
+				"sendButton": {
+					"iconType": "arrowUpward",
+					"color": "#515152",
+					"hoverColor": "#242424"
+				}
+			}
+		},
+		"dark": {
+			"general": {
+				"logoUrl": "http://localhost:8080/src/lib/mock/logo-dark.svg",
+				"logoAlt": "THE WALL STREET JOURNAL REPORTERS ROOM",
+				"fontFamily": "sans"
+			},
+			"theme": {
+				"modal": {
+					"borderRadius": "12px",
+					"backgroundColor": "#151619"
+				},
+				"textarea": {
+					"borderRadius": "6px",
+					"backgroundColor": "#151619"
+				},
+				"dropdown": {
+					"menuBorderRadius": "4px",
+					"itemBorderRadius": "4px"
+				},
+				"text": {
+					"usernameColor": "#646568",
+					"timestampColor": "#646568"
+				},
+				"suggestionButton": {
+					"borderRadius": "6px",
+					"backgroundColor": "#25272d",
+					"hoverBackgroundColor": "#2b2e36",
+					"textColor": "#d2d6dd",
+					"hoverTextColor": "#d2d6dd",
+					"borderColor": "transparent",
+					"hoverBorderColor": "transparent"
+				},
+				"sendButton": {
+					"iconType": "arrowUpward",
+					"color": "#87888e",
+					"hoverColor": "#d2d6dd"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"apiEndpoint": "/api/chat",
+	"user": "Alan Kao",
+	"assistant": "The Wall Street Journal",
+	"initialMessage": "Hi! I'm an AI assistant trained on WSJ, help articles, and other content. Ask me anything about WSJ.",
+	"placeholder": "Start a conversation ..."
+}
